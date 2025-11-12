@@ -7,6 +7,10 @@
 <p align="center">
   <img src="images\preview.png" height="320px" alt="Naver Sneaky Game"/>
 </p>
+<br>
+<p align="center">
+  <img src="images\preview-2.png" height="320px" alt="Naver Sneaky Game"/>
+</p>
 
 ## Tentang
 
