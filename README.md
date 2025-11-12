@@ -14,9 +14,7 @@
 
 ## Tentang
 
-`Naver Sneaky Game v2.0` adalah game Snake yang aku buat dengan Pygame dengan berbagai fitur dan vfx yang keren.
-
-Tujuan dibuatnya game ini adalah sebagai latihanku yang sedang belajar pada algoritma game, AI pathfinding, dan demo vfx (particle, glow, gradient).
+`Naver Sneaky Game v2.0` adalah game Snake yang aku buat dengan Pygame dengan berbagai fitur dan vfx yang keren. Tujuan dibuatnya game ini adalah sebagai latihanku yang sedang belajar pada algoritma game, AI pathfinding, dan demo vfx (particle, glow, gradient).
 
 ### Fitur utama:
 
@@ -97,7 +95,7 @@ dan coba jalankan dari terminal biasa (bukan melalui editor) untuk melihat pesan
 
 ## Pengembangan & Kontribusi
 
-Kami menerima kontribusi seperti:
+Aku menerima kontribusi seperti:
 
 - Perbaikan bug pada logika gerakan, collision, dan AI pathfinding
 - Penambahan fitur (leaderboard online, multiple enemy types, boss fight)
