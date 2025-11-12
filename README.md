@@ -5,7 +5,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](#)
 
 <p align="center">
-  <img src="Screenshot 2025-11-12 225056.png" height="320px" alt="Naver Sneaky Game"/>
+  <img src="images\preview.png" height="320px" alt="Naver Sneaky Game"/>
 </p>
 
 ## Tentang
